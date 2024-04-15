@@ -1,2 +1,4 @@
 *.json
-*.csv
+
+df_data.csv
+df_preprocessed.csv
